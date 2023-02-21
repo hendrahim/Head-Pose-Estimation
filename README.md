@@ -3,5 +3,7 @@ I used AFLW2000-3D dataset which is a dataset of 2000 images. the regression mod
 
 steps:
 1-used mediapipe and cv2
+
 2-split data into taining  and testing
+
 3-used svr model
